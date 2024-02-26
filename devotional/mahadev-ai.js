@@ -6,7 +6,6 @@
 {"url":"https://i.imgur.com/31ATMjT.jpeg"},
 {"url":"https://i.imgur.com/ck7v3tB.jpeg"},
 {"url":"https://i.imgur.com/LUStRK2.jpeg"},
-{"url":"https://i.imgur.com/K9RTZF2.jpeg"},
 {"url":"https://i.imgur.com/3TRAlE0.jpeg"},
 {"url":"https://i.imgur.com/15y5KVP.jpeg"},
 {"url":"https://i.imgur.com/tHqvYaH.jpeg"},
